@@ -1,0 +1,11 @@
+marks=int(input("Enter marks:"))
+if(marks>90):
+    print("Grade:O")
+elif(marks>81 and marks<=71)
+    print("Grade A")
+elif(marks> and marks<=80)
+    print("Grade B")
+elif(marks>71 and marks<=80)
+    print("Grade B")
+elif(marks>71 and marks<=80)
+    print("Grade B")

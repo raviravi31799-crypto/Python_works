@@ -1,0 +1,13 @@
+n=input("Enter string:")
+"""
+if n==n[::-1]:
+    print(n,"is Palindrome")
+else:
+    print(n,"is not a palindrome")
+"""
+
+revn=n[::-1]
+if n.__eq__revn:
+    print(n,"is palindrome")
+else:
+    print(n,'is not palindrome')
