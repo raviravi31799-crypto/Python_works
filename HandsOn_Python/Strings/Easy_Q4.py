@@ -1,0 +1,2 @@
+str=input("String:")
+string=""
